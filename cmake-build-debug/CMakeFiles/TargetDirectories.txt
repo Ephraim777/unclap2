@@ -1,0 +1,3 @@
+/home/nikita/CLionProjects/uncaps2/cmake-build-debug/CMakeFiles/uncaps2.dir
+/home/nikita/CLionProjects/uncaps2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/CLionProjects/uncaps2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
